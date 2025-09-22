@@ -4,5 +4,8 @@ This project focuses on developing an Augmented Reality (AR) application for vis
 The full Unity project can be downloaded here:  
 [Download Project from Google Drive](https://drive.google.com/file/d/1d8vOzkoMNR99w1LDVWvSnuPd6baLUwkD/view?usp=sharing)
 
- You can download the Android APK here: 
+You can download the Android APK here: 
 [Download APK from Google Drive](https://drive.google.com/file/d/1y6d3cx7oZoP-DzcrfrPIi9B6EvMJ7vir/view?usp=sharing)
+
+Download the Surface Used for detection:
+[Download PDF from Google Drive](https://drive.google.com/file/d/1sPL0QTTj1C6HL5732yknpDN_QsBWq4mr/view?usp=sharing)
